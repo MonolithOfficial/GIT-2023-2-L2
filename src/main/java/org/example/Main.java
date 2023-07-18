@@ -2,6 +2,6 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Changes on master");
+        System.out.println("Changes on branch1");
     }
 }
